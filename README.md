@@ -1,0 +1,8 @@
+![Default Home Page](Screenshots/Screenshot%201.png)
+![Login Page](Screenshots/Screenshot%202.png)
+![Home Screen After Login](Screenshots/Screenshot%203.png)
+![Buy Currency Dialog](Screenshots/Screenshot%204.png)
+![Profile Page](Screenshots/Screenshot%205.png)
+![Profile Page 2](Screenshots/Screenshot%206.png)
+![Home page with in light mode](Screenshots/Screenshot%207.png)
+![Profile page in light mode](Screenshots/Screenshot%208.png)
