@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: MockTrade
+  data:
+    mongodb:
+      uri: ${DATABASE_URL}
+      database: ${DATABASE_NAME}
+  security:
+    user:
+      name: ${USERNAME}
+      password: ${PASSWORD}
